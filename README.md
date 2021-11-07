@@ -1,5 +1,4 @@
-# tumblr_spider
-汤不热 python 多线程爬虫
+python 多线程爬虫
 
 #### install
 > pip install -r requirements.txt
